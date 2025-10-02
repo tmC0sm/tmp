@@ -1,16 +1,5 @@
 # tmp
-
-
-
-https://svc-shipping-labels.s3.eu-central-1.amazonaws.com/6g1etkxrt2lwmz5gvp1vsov5kw4p?response-content-disposition=inline%3B%20filename%3D%22941cd832-1507-4c89-8da4-8e020cd7335e.pdf%22%3B%20filename%2A%3DUTF-8%27%27941cd832-1507-4c89-8da4-8e020cd7335e.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-H
-
-
-514a90a341e7888876e1351a11c5bf8cf5205e235fcc238af2f17fd412d96605
-
-
-7b87ecf54cb487193030a2282cfb72a3d489932f4f2086f9046519e51431af3c
-
-
-kT5-DfMv8_d7QZUc-xWyHd23Lsc
- 
-592f051ceb67b63c56cad13a3ce6818aea203423fd7e342e107a2478d776edb0
+cf16cfe2f833f77a053cda12ab808e3f1d323feea1f92ee92e41f4f726603d58         F:\Portable\PKL-Fr\Codage.xls
+d0ee92cd9321fee906955d73ef678086b697cd1ca8cfa91fff49ab4fb678f407         F:\Portable\PKL-Fr\nonASCII.ini
+8a25913d130fd54080724af884d8453fbf606dd8b6500164c2453624102cd922         F:\Portable\PKL-Fr\PKL-Fr.exe
+e43c14ff91bf2a73fc1c1bd32dfce400bb22bf265e00302292f2cfcede3fcada         F:\Portable\PKL-Fr\pkl.ini
